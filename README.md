@@ -20,4 +20,10 @@ This project is a Power BI dashboard built to analyze banking loan data.
 - Bank-wise performance comparison
 
 ## Screenshots
+![Loan Overview](Loan%20Overview%20Dashboard.png)
 
+![Risk Analysis](Risk%20Analysis%20Dashboard.png)
+
+![Bank Performance](Bank%20Performance%20Dashboard.png)
+
+![Affordability](Loan%20Affordability%20Calculator.png)
